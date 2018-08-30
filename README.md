@@ -4,7 +4,7 @@ This project contains a `Dialog` widget which takes an array of Lines and displa
 
 After a line has been "typed", an animated prompt appear, either an ellipsis if there are more lines or a check mark (UTF-8 character ✔️, which might not work with all fonts) if it's the final one.
 
-The project also includes a `DialogTrigger` blueprint, with an example of how to setup and use the widget programmatically, and a level with two instances of that blueprint.
+The project also includes a `DialogTrigger` blueprint, with an example of how to setup and use the widget programmatically, and a level with one instance of that blueprint to show the interaction.
 
 ## How to use
 
